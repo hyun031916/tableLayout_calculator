@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">tableLayout_calculator</string>
+    <string name="Edit1">edit1</string>
+    <string name="Edit2">edi2</string>
+    <stirng name="BtnNum0">0</stirng>
+    <stirng name="BtnNum1">1</stirng>
+    <stirng name="BtnNum2">2</stirng>
+    <stirng name="BtnNum3">3</stirng>
+    <stirng name="BtnNum4">4</stirng>
+    <stirng name="BtnNum5">5</stirng>
+    <stirng name="BtnNum6">6</stirng>
+    <stirng name="BtnNum7">7</stirng>
+    <stirng name="BtnNum8">8</stirng>
+    <stirng name="BtnNum9">9</stirng>
+
+
 </resources>
